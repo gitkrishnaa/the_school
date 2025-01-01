@@ -1,9 +1,56 @@
 {
-"school1":{"school_name":"krishna",
-  "school_email":"sacsd",
-  "school_mobile":"7589858958",
-  "school_address":"dsacs ascddsd"}
-
-
-  
+  "mount_litera": {
+    "school_name": "MOUNT LITERA ZEE",
+    "school_email": "School@web.com",
+    "school_mobile": "7280011592",
+    "school_address": "NH 57, Dilli more, near BJP office, opp. mahindra show room, basudevpur, Krishna Vihar, Darbhanga, Bihar 846005"
+  },
+  "d_a_v": {
+    "school_name": "D A V Public School",
+    "school_email": "School@web.com",
+    "school_mobile": "9263182130",
+    "school_address": "near Ayurveda College, Sara Mohanpur, Darbhanga, Bihar 846007"
+  },
+  "public_school": {
+    "school_name": "Public school",
+    "school_email": "School@web.com",
+    "school_mobile": "7782049934",
+    "school_address": "Public School Rd, Mirzapur, Lal Bagh, Darbhanga, Bihar 846004"
+  },
+  "angel_high_school": {
+    "school_name": "Angel High School",
+    "school_email": "School@web.com",
+    "school_mobile": "06272 250 767",
+    "school_address": "angel high school, Mirza Hayat Baig, Rahamganj, Darbhanga, Bihar 846004"
+  },
+  "darbhanga_jr": {
+    "school_name": "DJPS",
+    "school_email": "School@web.com",
+    "school_mobile": "09507077077",
+    "school_address": "Banglagarh Rd, Mansaar Colony, Darbhanga, Bihar 846006"
+  },
+  "darbhanga_central_school": {
+    "school_name": "DJPS",
+    "school_email": "School@web.com",
+    "school_mobile": "09204759405",
+    "school_address": "Banglagarh Rd, Mansaar Colony, Darbhanga, Chataria, Bihar 846006"
+  },
+  "new_era_public_school": {
+    "school_name": "NEPS",
+    "school_email": "School@web.com",
+    "school_mobile": "7726076720",
+    "school_address": "BK Rd, opposite Mahila Thana, Gudri Bazar, Mogalpura, Laheriasarai, Darbhanga, Bihar 846001"
+  },
+  "harvard_english_school": {
+    "school_name": "Harvard English school",
+    "school_email": "School@web.com",
+    "school_mobile": "9102352935",
+    "school_address": "Bangali Tola, Laheriasarai, Darbhanga, Bihar 846003"
+  },
+  "public_school_darbhanga": {
+    "school_name": "Public School",
+    "school_email": "School@web.com",
+    "school_mobile": "7766912166",
+    "school_address": "Bela Garden, VIP Rd, P.O, Lal Bagh, Darbhanga, Bihar 846004"
+  }
 }
