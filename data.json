@@ -1,4 +1,9 @@
-{
+{ "test": {
+  "school_name": "YOUR SCHOOL NAME",
+  "school_email": "School@web.com",
+  "school_mobile": "9999999999",
+  "school_address": "NH 57, Dilli more, near BJP office, opp. mahindra show room, basudevpur, Krishna Vihar, Darbhanga, Bihar 846005"
+},
   "mount_litera": {
     "school_name": "MOUNT LITERA ZEE",
     "school_email": "School@web.com",
